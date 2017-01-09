@@ -1,0 +1,14 @@
+{
+    "name": "mahlstrom/rp-standard",
+    "description": "Codesniffer standard for RP",
+    "type": "codesniffer",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "mahlstrom",
+            "email": "magnus@atuin.se"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

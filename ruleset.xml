@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ruleset name="XMLDaemon">
+    <description>The coding standard for RP.</description>
+    <exclude-pattern>vendor</exclude-pattern>
+    <exclude-pattern>RpStandard</exclude-pattern>
+    <arg value="np"/>
+    <rule ref="PSR2"/>
+    <rule ref="Squiz.Commenting.ClassComment"/>
+    <rule ref="RpStandard.Commenting.FunctionComment"/>
+    <rule ref="PEAR.Commenting.InlineComment"/>
+</ruleset>
