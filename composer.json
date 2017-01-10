@@ -1,5 +1,5 @@
 {
-    "name": "mahlstrom/rp-standard",
+    "name": "mahlstrom/rpstandard",
     "description": "Codesniffer standard for RP",
     "type": "codesniffer",
     "license": "BSD-3-Clause",
