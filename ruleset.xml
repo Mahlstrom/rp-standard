@@ -6,6 +6,9 @@
     <arg value="np"/>
     <rule ref="PSR2"/>
     <rule ref="Squiz.Commenting.ClassComment"/>
-    <rule ref="RpStandard.Commenting.FunctionComment"/>
+    <rule ref="RpStandard.Commenting.FunctionComment">
+        <exclude name="RpStandard.Commenting.FunctionComment.ParamCommentNotCapital"/>
+        <exclude name="RpStandard.Commenting.FunctionComment.ParamCommentFullStop"/>
+    </rule>
     <rule ref="PEAR.Commenting.InlineComment"/>
 </ruleset>
